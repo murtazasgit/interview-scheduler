@@ -1,5 +1,9 @@
 # 🗓️ Interview Scheduler Tool
-
+---
+ <p align="center">
+  <img src="https://th.bing.com/th/id/OIP.g00w7K8gvCeH0YoEjADAwAAAAA?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Company Logo" width="200"/>
+</p>
+---
 A comprehensive web-based application that simplifies the process of scheduling and managing interviews between HR teams, candidates, and interviewers.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -37,10 +41,7 @@ Efficient interview coordination is a critical component of modern recruitment p
 | Hosting     | XAMPP / Apache or Replit    |
 
 ---
- <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.g00w7K8gvCeH0YoEjADAwAAAAA?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Company Logo" width="200"/>
-</p>
----
+
 ## 🧑‍💻 Getting Started (Local)
 
 ### 1. Clone the Repository
